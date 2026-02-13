@@ -7,7 +7,7 @@
 
 > **Bridging the gap from "Script Kiddie" to "Software Engineer."**
 
-This repository is the **companion code** to the *Back to Basics* YouTube series—a deep re-examination of Python fundamentals through the lens of **professional software engineering standards**. We don't just teach syntax. We teach **memory models**, **type safety**, **defensive coding**, and the **Trigger Standard**: the non-negotiable rules that separate amateurs from professionals.
+This repository is the **companion code** to the *Back to Basics* YouTube series,a deep re-examination of Python fundamentals through the lens of **professional software engineering standards**. We don't just teach syntax. We teach **memory models**, **type safety**, **defensive coding**, and the **Trigger Standard**: the non-negotiable rules that separate amateurs from professionals.
 
 ---
 
@@ -66,7 +66,7 @@ Every line of code in this repository follows these commandments:
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Back-to-Basics-Python.git
+git clone https://github.com/TriggerGuy99/Back-to-Basics-Python.git
 cd Back-to-Basics-Python
 ```
 
